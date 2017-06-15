@@ -1,6 +1,6 @@
 ## Install NVM (Node Version Manager)
 
-nvm is a version manager for node, it allows you to install, switch versions and has built in shasum -a 256 checksum when downloading nvm. It's similar to using rbenv or rvm in ![ruby icon](/assets/images/ruby-icon.png) ruby land![ruby icon](/assets/images/ruby-icon.png).
+nvm is a version manager for node, it allows you to install, switch versions and has built in shasum -a 256 checksum when downloading nvm. It's similar to using rbenv or rvm in ![ruby icon](/assets/images/ruby-icn.png) ruby land![ruby icon](/assets/images/ruby-icn.png).
 
 ## Mac OS X
 
