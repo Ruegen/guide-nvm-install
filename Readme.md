@@ -12,6 +12,8 @@
 3. Open *~/.bash_profile* in your code editor and append (and save!)
   ```
   export NVM_DIR=~/.nvm
+  ```
+  ```
   source $(brew --prefix nvm)/nvm.sh
   ```
 4. Reopen your terminal and run command to see if nvm installed
